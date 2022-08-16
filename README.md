@@ -1,12 +1,15 @@
-1. Monolitos
+# 1. Monolitos
+
 Aplicacion que funciona como un solo proceso, que lo hace costoso en hardware
 y carente de escalabilidad.
 
-2. Microservicios
+# 2. Microservicios
+
 Pueden ser levantados **individualmente** en servidores separados, sin necesidad
 de brindales demasiados recursos.
 
-3. Arquitectura de Microservicios
+# 3. Arquitectura de Microservicios
+
 La arquitectura basada en microservicios esta alineada a los principios de:
 
 	* Arquitectura impulsada por eventos
